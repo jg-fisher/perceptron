@@ -66,7 +66,8 @@ module.exports = class Perceptron {
 				for ( let w = 0; w < this.weights.length; w++ ) { 
 					this.weights[w] += loss * this.x_train[i][w] * this.learn_rate
 				}
-
+				
+				// update bias
 				this.bias += loss * this.learn_rate
 			}
 			
