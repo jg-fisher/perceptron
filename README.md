@@ -1,4 +1,4 @@
-# perceptronJS
+# perceptron
 
 Library for a perceptron model built with Javascript.
 
