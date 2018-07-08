@@ -1,6 +1,6 @@
 # perceptron
 
-Library for a perceptron model built with Javascript.
+Perceptron model built with Javascript.
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/8c/Perceptron_moj.png'></img>
 
